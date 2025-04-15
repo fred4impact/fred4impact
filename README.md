@@ -18,7 +18,7 @@ I'm a passionate **Cloud & DevOps Engineer** with hands-on experience in automat
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
 
 
-## 🚀 DevOps Projects
+<!-- ## 🚀 DevOps Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
@@ -27,16 +27,4 @@ I'm a passionate **Cloud & DevOps Engineer** with hands-on experience in automat
 | [Serverless URL Shortener](https://github.com/your-username/serverless-url-shortener) | URL shortener using API Gateway, Lambda, DynamoDB | AWS Lambda, Python |
 | [Monitoring with Prometheus & Grafana](https://github.com/your-username/devops-monitoring) | Kubernetes monitoring setup with Prometheus, Grafana, and Alertmanager | Helm, Prometheus |
 
-
-## 📊 GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@your-profile)
-[![Blog](https://img.shields.io/badge/Dev-Blog-black?logo=githubpages&logoColor=white)](https://yourusername.github.io)
-
+ -->
